@@ -1,4 +1,4 @@
-# -EX10-PROJECT-Sentimental-Analysis-on-Any-Dataset-Using-Rapidminer
+### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
 ### DATE: 02-11-2026
 ### NAME : LATHIKA K
 ### REG NO : 212224230140
@@ -32,4 +32,12 @@
 <img width="1140" height="661" alt="image" src="https://github.com/user-attachments/assets/010168e2-db03-4acd-8b1f-d73bbf7d0ae4" />
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1c986e4-1391-4fa6-bcae-c12a4412ae9d" 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1c986e4-1391-4fa6-bcae-c12a4412ae9d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/857e3852-0c51-4fa0-9931-fb9058a24df5" />
+
+
+
+### Result:
+The Sentiment Analysis project was successfully implemented using RapidMiner with the Naive Bayes algorithm.
+
+The model achieved an accuracy of 49.17%, and the results were evaluated using a confusion matrix.
